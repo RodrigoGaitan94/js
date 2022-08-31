@@ -7,6 +7,6 @@ const libroFavorito = {
 	titulo: 'Harry',
 	autor: 'Perez',
 	fechas: 2012,
-	url: 'harri.com'
+	url: 'harry.com'
 
 }
