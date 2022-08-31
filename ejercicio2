@@ -1,0 +1,12 @@
+const nombre = "Rodrigo"
+const edad = 28
+const desarrollador = true
+const fecha de naciemiento =  new Date(1994, 2, 16);
+
+const libroFavorito = {
+	titulo: 'Harry',
+	autor: 'Perez',
+	fechas: 2012,
+	url: 'harri.com'
+
+}
